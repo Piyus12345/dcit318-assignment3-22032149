@@ -1,0 +1,14 @@
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.exe
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.deps.json
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.runtimeconfig.json
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\bin\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\refint\HealthcareSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.pdb
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\HealthcareSystem\obj\Debug\net10.0\ref\HealthcareSystem.dll
