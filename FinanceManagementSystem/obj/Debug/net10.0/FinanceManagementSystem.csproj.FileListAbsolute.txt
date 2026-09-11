@@ -1,0 +1,14 @@
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.exe
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.deps.json
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\refint\FinanceManagementSystem.dll
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\Micheal H\Desktop\DCIT318\dcit318-assignment3-22032149\FinanceManagementSystem\obj\Debug\net10.0\ref\FinanceManagementSystem.dll
