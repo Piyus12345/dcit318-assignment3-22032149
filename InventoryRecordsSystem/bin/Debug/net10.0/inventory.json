@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2026-09-12T03:00:19.4306628+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Office Chair",
+    "Quantity": 25,
+    "DateAdded": "2026-09-12T03:00:19.4341745+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Printer Paper (Ream)",
+    "Quantity": 100,
+    "DateAdded": "2026-09-12T03:00:19.4341778+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Wireless Mouse",
+    "Quantity": 40,
+    "DateAdded": "2026-09-12T03:00:19.4341781+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Desk Lamp",
+    "Quantity": 15,
+    "DateAdded": "2026-09-12T03:00:19.4341784+00:00"
+  }
+]
